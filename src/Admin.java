@@ -37,6 +37,7 @@ public class Admin extends User {
                 break;
             default:
                 System.out.println("输入错误，请重新输入！");
+                System.out.println("sds");
         }
 
     }
