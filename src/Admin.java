@@ -10,7 +10,7 @@ public class Admin extends User {
 
     public void menu() {
         System.out.println("尊敬的管理员:" + this.getID() + "欢迎来到图书管理系统");
-        System.out.println("0.退出账号");
+        System.out.println("0.退出账号 ");
         System.out.println("1.查看书库");
         System.out.println("2.新增图书");
         System.out.println("3.删除图书");
